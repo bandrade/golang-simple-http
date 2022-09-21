@@ -1,4 +1,4 @@
-module golang-simple-http
+module github.com/bandrade/golang-simple-http
 
 go 1.17
 

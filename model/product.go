@@ -1,7 +1,7 @@
 package model
 
 import (
-	database "golang-simple-http/db"
+	database "github.com/bandrade/golang-simple-http/db"
 )
 
 type Product struct {

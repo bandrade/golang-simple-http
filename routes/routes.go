@@ -1,8 +1,9 @@
 package routes
 
 import (
-	"golang-simple-http/controller"
 	"net/http"
+
+	"github.com/bandrade/golang-simple-http/controller"
 )
 
 func LoadRoutes() {

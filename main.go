@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"golang-simple-http/routes"
+	"github.com/bandrade/golang-simple-http/routes"
 )
 
 func main() {

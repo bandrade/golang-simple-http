@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"text/template"
 
-	"golang-simple-http/model"
+	"github.com/bandrade/golang-simple-http/model"
 )
 
 var temp = template.Must(template.ParseGlob("template/*.html"))
